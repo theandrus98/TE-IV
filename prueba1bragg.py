@@ -22,7 +22,7 @@ t = 385 #s
 
 #Creamos una variable vacía para saber cuantos canales tenemos
 
-canal = len(datos)       #no sería mejor usar len(datos) y ya está?
+canal = len(datos)
 cs = datos/t #Número de cuentas por segundo
 x = np.arange(canal) #array con valores desde 0 hasta canal-1, es decir, índice de cada canal
 
