@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Feb 13 15:43:19 2025
+
+@author: andres
+"""
+
 # Presión: p = 281 mbar
 
 import numpy as np
